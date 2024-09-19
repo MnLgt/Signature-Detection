@@ -1,0 +1,7 @@
+gradio==4.44.0
+matplotlib==3.8.4
+numpy==1.26.4
+Pillow==10.4.0
+torch==2.0.1
+torchvision==0.15.2
+opencv-python
